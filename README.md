@@ -1,4 +1,4 @@
-Burgerbuilder, een React app gebaseerd op het burgerbuilder project van [https://www.udemy.com/course/react-the-complete-guide-incl-redux/](Maximilian Schwarzmüller).
+Burgerbuilder, een React app gebaseerd op het burgerbuilder project van [https://www.udemy.com/course/react-the-complete-guide-incl-redux](Maximilian Schwarzmüller).
 
 Een live-demo is te vinden op [https://burgerbuilder.remcokersten.nl/](https://burgerbuilder.remcokersten.nl/)
 
