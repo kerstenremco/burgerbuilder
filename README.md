@@ -13,7 +13,7 @@ Deze applicatie is gebouwd in React. Run eerst `npm install`
 Voor deze applicatie wordt gebruik gemaakt van een Google Firebase database.
 Maak een realtime database met de volgende indeling:
 
-{
+`{
     ingredienten: {
         bacon: 0,
         cheese: 0,
@@ -23,7 +23,7 @@ Maak een realtime database met de volgende indeling:
     orders: {
 
     }
-}
+}`
 
 Maak in de hoofdmap een bestand aan genaamd .env met hierin de volgende variabele:
 `REACT_APP_FIREBASE_URL=URL_FIREBASE_APP`
