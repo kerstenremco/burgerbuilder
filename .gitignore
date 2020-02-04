@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.env
+Naamloos.code-workspace
+.vscode/ftp-sync.json
